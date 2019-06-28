@@ -1,4 +1,4 @@
-## Welcome to Haxe Expresso
+## Welcome to Haxe Espresso
 
 If you are here hopefully it means we have one thing in common: we are software developers and we use [Haxe](https://haxe.org/) to carry on some of out tasks. If this is the case you know for sure how broad Haxe is and may wonder what this blog is about: game development maybe? something "obscure" like the internals of the compiler? No, it is mainly about the boring JS target and the frontend world, but hopefully I will be able to also bring from time to time other variety of subjects.
 
